@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zgibberish
-- 👀 I’m interested in gaming and anything related
-- 🌱 I’m currently learning C++
-- 💞️ I'll do what i can to help, even if i suck at it
-- 📫 Reach me at my email: lamgiabao1456@gmail.com
+# Hi, I’m gibberish!
+- 💥 I poke around with stuff
+- 🌱 I’m currently learning Python (maybe C++ and openCV but that's for another day)
+- 📫 Reach me at my email: lamgiabao1456@gmail.com (I always read my emails)
+- 💬 Or contact me on Discord: @zgibberish
 
 <!---
 zgibberish/zgibberish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
