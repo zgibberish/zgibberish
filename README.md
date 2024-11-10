@@ -1,7 +1,5 @@
  # Hi, I’m gibberish!
  
-I poke around with stuff, currently learning about game modding and writing documentation (specifically for Rotwood).
+I poke around with stuff, currently modding for [Rotwood](https://store.steampowered.com/app/2015270/Rotwood/).
 
-Email: gbjgms@gmail.com (I always check my emails).
-
-(Feel free to send me a DM on Discord: @zgibberish)
+You can send me an email at gbjgms@gmail.com or on Discord @zgibberish :3
