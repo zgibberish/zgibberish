@@ -1,8 +1,7 @@
 # Hi hello
 
-- Game modding (mostly [Rotwood](https://store.steampowered.com/app/2015270/Rotwood))
+- Game modding ([Rotwood](https://store.steampowered.com/app/2015270/Rotwood) and [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/))
 - Linux & sysadmin hobbyist
-- Scripting and automation
 - Self-hosting / home server
 
 ## Contacts
