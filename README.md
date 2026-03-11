@@ -5,7 +5,3 @@ My personal projects are hosted on [Codeberg](https://codeberg.org/gibbert).
 - Game modding ([Rotwood](https://store.steampowered.com/app/2015270/Rotwood) and [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/))
 - Linux & sysadmin hobbyist
 
-## Contacts
-
-- **Email:** gbjgms@gmail.com
-- **Discord:** @zgibberish
